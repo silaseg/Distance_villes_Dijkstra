@@ -1,0 +1,39 @@
+0 20 Ajaccio
+1 40 Annecy
+2 36 Besançon
+3 50 Marseille 
+4 9 Nîmes
+5 1 paris
+6 9 Perpignan
+7 57 Toulon
+8 61 Toulouse
+9 32 Brest
+10 8 Aix-en-Provence
+11 6 Nice
+12 13 Calais
+13 45 Le-Mans
+14 47 Caen
+15 17 Angers
+16 6 Le-Havre
+17 4 Saint-Étienne
+18 62 Nantes
+19 78 Dijon
+20 47 Montpellier
+21 36 Amiens
+22 12 Nancy
+23 3 Lyon
+24 47 Rennes
+25 28 Bordeaux
+26 41 Metz
+27 7  Clermont-Ferrand
+28 78 Avignon
+29 11 Mas-Thibert
+30 69 Draguignan
+31 88 Pont-de-Crau
+32 15 Saint-Maximin-la-Sainte-Baume
+33 4  Berre-l'Étang
+
+
+
+
+
